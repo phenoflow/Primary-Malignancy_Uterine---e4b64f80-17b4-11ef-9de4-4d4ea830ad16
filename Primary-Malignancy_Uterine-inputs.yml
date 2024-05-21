@@ -1,0 +1,30 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/primary-malignancy_uterine-unspecified---primary.py
+inputModule3:
+  class: File
+  path: python/primary-malignancy_uterine-corpus---primary.py
+inputModule4:
+  class: File
+  path: python/primary-malignancy_uterine-uterus---primary.py
+inputModule5:
+  class: File
+  path: python/primary-malignancy_uterine-endometrium---primary.py
+inputModule6:
+  class: File
+  path: python/primary-malignancy_uterine-neoplasm---primary.py
+inputModule7:
+  class: File
+  path: python/primary-malignancy_uterine-history---primary.py
+inputModule8:
+  class: File
+  path: python/primary-malignancy_uterine-isthmu---primary.py
+inputModule9:
+  class: File
+  path: python/uterine---primary.py
+inputModule10:
+  class: File
+  path: python/output-cases.py
